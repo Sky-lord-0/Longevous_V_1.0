@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/SCENES/MAIN_MENU.unity
+    guid: 444a5170b0588744ea1e506d1846a240
+  - enabled: 1
+    path: Assets/SCENES/CUTSCENE.unity
+    guid: 0a0bedac226a4e144b150ec7ab11f034
+  - enabled: 1
+    path: Assets/SCENES/VILAREJO.unity
+    guid: a2db698b3c9e52e4a8f99343894e286d
+  - enabled: 1
+    path: Assets/SCENES/CASTELO.unity
+    guid: 41cab205ea0d90b47ac6d3a8b9d257b0
+  - enabled: 1
+    path: Assets/SCENES/TOPO_CASTELO.unity
+    guid: 737dd3597a2c126488d7da3731296366
+  - enabled: 1
+    path: Assets/SCENES/CUTSCENE_FINAL.unity
+    guid: 5ee232c7533bcbf41baaa5a77b6c92bc
+  - enabled: 1
+    path: Assets/SCENES/CREDITS.unity
+    guid: 2278e52a59dab7f43b6f125170252f11
+  m_configObjects: {}
