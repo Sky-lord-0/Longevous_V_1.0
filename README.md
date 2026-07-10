@@ -1,8 +1,5 @@
 # ☠️ Longevous
 
-<img width="645" height="387" alt="LOGO_SEM_FUNDO" src="https://github.com/user-attachments/assets/4f4da0f3-319a-4f16-bb6e-45ba215a7683" />
-
-
 ## 🎮 Sobre o Projeto
 
 **Longevous** é um jogo de plataforma **2D no estilo Metroidvania** com elementos **Roguelike**, trazendo um combate focado em habilidade, esquiva e aprendizado dos padrões dos inimigos a cada tentativa (*run*).
