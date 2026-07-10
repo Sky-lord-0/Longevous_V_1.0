@@ -1,6 +1,7 @@
 # ☠️ Longevous
 
-![Longevous Banner](https://via.placeholder.com/1200x400)
+<img width="645" height="387" alt="LOGO_SEM_FUNDO" src="https://github.com/user-attachments/assets/4f4da0f3-319a-4f16-bb6e-45ba215a7683" />
+
 
 ## 🎮 Sobre o Projeto
 
