@@ -57,7 +57,6 @@ Agora, a própria **Morte** precisa enfrentar esse culto, derrotar seus seguidor
 O projeto possui influências de diversos jogos:
 
 - <img width="1536" height="864" alt="hollow" src="https://github.com/user-attachments/assets/5f81a86b-b3a4-4786-8c2f-94e72daef743" />
-
   > Atmosfera sombria, exploração 2D e elementos de Metroidvania.
 
 - <img width="1280" height="720" alt="nice" src="https://github.com/user-attachments/assets/97c2352c-1d92-4721-838c-16bdde36572e" />
