@@ -56,16 +56,17 @@ Agora, a própria **Morte** precisa enfrentar esse culto, derrotar seus seguidor
 
 O projeto possui influências de diversos jogos:
 
-- :contentReference[oaicite:0]{index=0}  
+- <img width="1536" height="864" alt="hollow" src="https://github.com/user-attachments/assets/5f81a86b-b3a4-4786-8c2f-94e72daef743" />
+
   > Atmosfera sombria, exploração 2D e elementos de Metroidvania.
 
-- :contentReference[oaicite:1]{index=1}  
+- <img width="1280" height="720" alt="nice" src="https://github.com/user-attachments/assets/97c2352c-1d92-4721-838c-16bdde36572e" />
   > Conceito da Morte como protagonista e elementos Roguelike.
 
-- :contentReference[oaicite:2]{index=2}  
+- <img width="912" height="569" alt="blas" src="https://github.com/user-attachments/assets/2047e078-fe97-41ba-ae01-a8ba1dbd9ad6" />
   > Estética Dark Fantasy e combate baseado em habilidade.
 
-- :contentReference[oaicite:3]{index=3}  
+- <img width="1920" height="1080" alt="dead" src="https://github.com/user-attachments/assets/401d5071-ccf0-450d-b1c5-ba2f0ad304e3" />  
   > Combate dinâmico e aprendizado através das tentativas.
 
 ---
