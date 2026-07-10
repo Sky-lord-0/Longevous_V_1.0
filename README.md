@@ -22,8 +22,8 @@ Com uma estética inspirada no **Dark Fantasy**, o jogo explora o conflito entre
 - 👹 Inimigos com comportamentos únicos:
   - Melee
   - Ranged
-  - Tank
-  - Sentinelas
+  - Tank (em desenvolvimento)
+  - Sentinelas (em desenvolvimento)
 - 👑 Chefes e sub-chefes com mecânicas próprias
 - 🎭 Narrativa focada no conflito entre vida e morte
 
