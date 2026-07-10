@@ -24,7 +24,7 @@ Com uma estética inspirada no **Dark Fantasy**, o jogo explora o conflito entre
   - Ranged
   - Tank (em desenvolvimento)
   - Sentinelas (em desenvolvimento)
-- 👑 Chefes e sub-chefes com mecânicas próprias
+- 👑 Chefe mecânicas próprias
 - 🎭 Narrativa focada no conflito entre vida e morte
 
 ---
@@ -74,10 +74,10 @@ O projeto possui influências de diversos jogos:
 
 - Ana Luísa
 - Gabriel Queiroz
-- Guilherme Carvalho
 - Gustavo dos Santos
-- Kauan Francisco
 - Pedro Antônio
+- Kauan Francisco
+- Guilherme Carvalho
 
 ---
 
