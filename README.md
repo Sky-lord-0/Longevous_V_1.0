@@ -10,6 +10,14 @@ Com uma estética inspirada no **Dark Fantasy**, o jogo explora o conflito entre
 
 ---
 
+# 🎮 Download
+
+A versão executável do jogo está disponível na aba Releases do GitHub.
+
+Recomendado:
+- Windows 10/11
+- Mouse e Teclado
+
 # ⚔️ Características
 
 - 🗡️ Plataforma 2D com elementos de **Metroidvania**
@@ -20,8 +28,8 @@ Com uma estética inspirada no **Dark Fantasy**, o jogo explora o conflito entre
   - Precisão nos ataques
   - Leitura de padrões inimigos
 - 👹 Inimigos com comportamentos únicos:
-  - Melee
-  - Ranged/mago
+  - Melee (implementado)
+  - Ranged/mago (implementado)
   - Tank (estrutura desenvolvida)
   - Sentinelas (estrutura desenvolvida)
   - Inimigo Rápido (estrutura desenvolvida)
