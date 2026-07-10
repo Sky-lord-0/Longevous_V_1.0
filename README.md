@@ -21,10 +21,11 @@ Com uma estética inspirada no **Dark Fantasy**, o jogo explora o conflito entre
   - Leitura de padrões inimigos
 - 👹 Inimigos com comportamentos únicos:
   - Melee
-  - Ranged
-  - Tank (em desenvolvimento)
-  - Sentinelas (em desenvolvimento)
-- 👑 Chefe mecânicas próprias
+  - Ranged/mago
+  - Tank (estrutura desenvolvida)
+  - Sentinelas (estrutura desenvolvida)
+  - Inimigo Rápido (estrutura desenvolvida)
+- 👑 Chefe com mecânicas próprias
 - 🎭 Narrativa focada no conflito entre vida e morte
 
 ---
@@ -72,18 +73,63 @@ O projeto possui influências de diversos jogos:
 
 # 👥 Equipe
 
-- Ana Luísa
-- Gabriel Queiroz
-- Gustavo dos Santos
-- Pedro Antônio
-- Kauan Francisco
-- Guilherme Carvalho
+- Ana Luísa (2D Artist, Animator, Cinematic Designer & Project Manager (Product Owner)
+- Gabriel Queiroz (Game Designer, Concept Artist & Diretor de Arte (Narrative & Visual) 
+- Gustavo dos Santos (Lead Gameplay Programmer, Git Administrator, Game Integrator & UI/UX Developer)
+- Pedro Antônio (Sound Designer & DevOps / Git Administrator)
+- Kauan Francisco (Pixel Artist / 2D Artist)
+- Guilherme Carvalho (GDD Writer)
 
 ---
 
 # 🚧 Status do Projeto
 
-🟡 **Em desenvolvimento**
+🟡 **Protótipo acadêmico concluído**
+
+O desenvolvimento principal do projeto foi realizado para fins de apresentação acadêmica, onde o jogo foi entregue como parte de um projeto universitário.
+
+Após a conclusão da apresentação e avaliação, o desenvolvimento ativo do projeto foi encerrado pela equipe. Entretanto, o repositório permanece disponível como registro do processo de desenvolvimento e como demonstração das mecânicas, sistemas e estruturas implementadas.
+
+## ⚔️ Sistemas Implementados
+
+Atualmente, o projeto possui diversas mecânicas funcionais já integradas:
+
+### ✅ Jogador
+
+* Personagem jogável: **A Morte**
+* Sistema de movimentação e combate
+* Animações de ataque, dano, hurt e morte
+* Sistema de vida e interação com inimigos
+
+### ✅ Inimigos Implementados
+
+**Inimigo Melee**
+
+* Combate corpo a corpo
+* Perseguição ao jogador
+* Sistema de ataque e dano
+* Animações de combate e morte
+
+**Inimigo Ranged (Mago)**
+
+* Ataques à distância
+* Disparo de projéteis mágicos
+* Sistema de alcance e comportamento próprio
+* Animações de combate e morte
+
+### 🛠️ Inimigos Desenvolvidos Parcialmente
+
+Alguns inimigos possuem sua estrutura de programação e comportamento preparados, porém não foram integrados completamente ao jogo final devido à ausência de seus sprites e recursos visuais.
+
+Planejados:
+
+* **Tank** — inimigo grande de alta resistência com comportamento defensivo.
+* **Sentinela** — inimigo focado em controle de área e ataques estratégicos.
+* **Inimigo Rápido** — variação de combate corpo a corpo com maior velocidade e mobilidade.
+
+---
+
+O projeto permanece como um marco do desenvolvimento acadêmico da equipe, contendo a base de sistemas, programação e arquitetura criada durante sua produção.
 
 ---
 
