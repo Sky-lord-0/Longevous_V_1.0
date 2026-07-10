@@ -20,7 +20,7 @@ Recomendado:
 
 Baixe a versão jogável do Longevous:
 
-➡️ [Longevous v1.0 - Download]([https://github.com/Sky-lord-0/Longevous_V_1.0/releases](https://github.com/Sky-lord-0/Longevous_V_1.0/tree/main/Build/Longevous.exe))
+➡️ [Longevous v1.0 - Download] ([https://github.com/Sky-lord-0/Longevous_V_1.0/releases](https://github.com/Sky-lord-0/Longevous_V_1.0/tree/main/Build/Longevous.exe))
 Longevous_V_1.0/Build/Longevous.exe
 
 # ⚔️ Características
